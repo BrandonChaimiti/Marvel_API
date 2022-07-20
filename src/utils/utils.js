@@ -18,13 +18,15 @@ const fetchHeroes = async (value) => {
 
     try {
         let response = await fetch(url);
+        console.log(response);
         let data = await response.json();
         console.log(data);
         return data;
     } catch (err) {
         console.error(err);
+        console.log("test");
         return;
     }
-}
+};
 
 export {fetchHeroes};

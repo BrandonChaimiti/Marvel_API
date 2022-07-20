@@ -5,6 +5,8 @@ import Container from "../components/Container";
 import SearchBar from "../components/SearchBar";
 import Grid from "../components/Grid";
 
+require('dotenv').config()
+
 
 export default function Home() {
   const [heroes, setHeroes] = useState([])
