@@ -1,13 +1,9 @@
 *,
 *::before,
 *::after {
-  margin: 5px;
-  padding-top: 10px;
-  padding-left: 145px;
-  padding-right: 10px;
-  width: 500px;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
-  align-items: center;
 }
 
 html {
@@ -17,25 +13,17 @@ html {
 
 body {
   min-height: 100vh;
-}
-
-h1 {
-  margin-bottom: 1em;
-  color: crimson;
-  align-items: center;
+  background-color: rgb(8, 85, 85);
 }
 
 h2,
 h3,
 p {
   margin-bottom: 1em;
-
 }
 
 li {
   list-style: none;
-  padding-left: 20px;
-  margin: 10px;
 }
 
 a,
@@ -45,7 +33,7 @@ a:visited {
 }
 
 button {
-  background-color: rgb(69, 126, 249);
+  background-color: crimson;
   color: white;
   font-size: 1rem;
   font-weight: 700;
@@ -171,7 +159,12 @@ header {
   min-width: 35ch;
 }
 
-.hero__details li {
+.hero__comics {
   list-style: disc;
   margin-left: 1.5rem;
+}
+
+.Footer{
+  text-align: center;
+  margin-top: 10rem;
 }

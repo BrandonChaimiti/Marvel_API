@@ -20,8 +20,8 @@ const fetchHeroes = async (value) => {
         let response = await fetch(url);
         console.log(response);
         let data = await response.json();
-        console.log(data);
-        return data;
+        console.log(data.data.results);
+        return data.data.results;
     } catch (err) {
         console.error(err);
         console.log("test");
@@ -29,4 +29,26 @@ const fetchHeroes = async (value) => {
     }
 };
 
-export {fetchHeroes};
+const fetchHero = async (id) => {
+    let baseUrl = `${API_URL}/v1/public/characters/${id}`;
+
+    let ts = Date.now().toString();
+    let apikey = process.env.REACT_APP_API_KEY;
+    let privatekey = process.env.REACT_APP_PRIVATE_KEY;
+    let hash = getHash(ts, privatekey, apikey);
+
+    let url = `${baseUrl}?ts=${ts}&apikey=${apikey}&hash=${hash}`;
+
+    try {
+        let response = await fetch(url);
+        console.log(response);
+        let data = await response.json();
+        console.log(data.data.results);
+        return data.data.results;
+    } catch (err) {
+        console.error(err);
+        return;
+    }
+};
+
+export { fetchHeroes, fetchHero };
