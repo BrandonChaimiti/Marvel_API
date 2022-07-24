@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.11d14f22.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.3e7c33af.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.3e7c33af.chunk.js.map",
-  "static/js/1.b6ea7c6a.chunk.js": "/react-gh-pages/static/js/1.b6ea7c6a.chunk.js",
-  "static/js/1.b6ea7c6a.chunk.js.map": "/react-gh-pages/static/js/1.b6ea7c6a.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/css/main.11d14f22.chunk.css.map": "/react-gh-pages/static/css/main.11d14f22.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.31e9c78e2d8bde903d1288927f627874.js": "/react-gh-pages/precache-manifest.31e9c78e2d8bde903d1288927f627874.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/FirstWebsite/static/css/main.11d14f22.chunk.css",
+  "main.js": "/FirstWebsite/static/js/main.3e7c33af.chunk.js",
+  "main.js.map": "/FirstWebsite/static/js/main.3e7c33af.chunk.js.map",
+  "static/js/1.c491ed75.chunk.js": "/FirstWebsite/static/js/1.c491ed75.chunk.js",
+  "static/js/1.c491ed75.chunk.js.map": "/FirstWebsite/static/js/1.c491ed75.chunk.js.map",
+  "runtime~main.js": "/FirstWebsite/static/js/runtime~main.e1a57d86.js",
+  "runtime~main.js.map": "/FirstWebsite/static/js/runtime~main.e1a57d86.js.map",
+  "static/css/main.11d14f22.chunk.css.map": "/FirstWebsite/static/css/main.11d14f22.chunk.css.map",
+  "index.html": "/FirstWebsite/index.html",
+  "precache-manifest.352a0ddb219c55f4567583403e5108e9.js": "/FirstWebsite/precache-manifest.352a0ddb219c55f4567583403e5108e9.js",
+  "service-worker.js": "/FirstWebsite/service-worker.js"
 }
