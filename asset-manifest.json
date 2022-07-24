@@ -1,13 +1,13 @@
 {
-  "main.css": "/FirstWebsite/static/css/main.11d14f22.chunk.css",
-  "main.js": "/FirstWebsite/static/js/main.3e7c33af.chunk.js",
-  "main.js.map": "/FirstWebsite/static/js/main.3e7c33af.chunk.js.map",
-  "static/js/1.c491ed75.chunk.js": "/FirstWebsite/static/js/1.c491ed75.chunk.js",
-  "static/js/1.c491ed75.chunk.js.map": "/FirstWebsite/static/js/1.c491ed75.chunk.js.map",
-  "runtime~main.js": "/FirstWebsite/static/js/runtime~main.e1a57d86.js",
-  "runtime~main.js.map": "/FirstWebsite/static/js/runtime~main.e1a57d86.js.map",
-  "static/css/main.11d14f22.chunk.css.map": "/FirstWebsite/static/css/main.11d14f22.chunk.css.map",
-  "index.html": "/FirstWebsite/index.html",
-  "precache-manifest.352a0ddb219c55f4567583403e5108e9.js": "/FirstWebsite/precache-manifest.352a0ddb219c55f4567583403e5108e9.js",
-  "service-worker.js": "/FirstWebsite/service-worker.js"
+  "main.css": "/Marvel_API/static/css/main.11d14f22.chunk.css",
+  "main.js": "/Marvel_API/static/js/main.3e7c33af.chunk.js",
+  "main.js.map": "/Marvel_API/static/js/main.3e7c33af.chunk.js.map",
+  "static/js/1.e0035ff2.chunk.js": "/Marvel_API/static/js/1.e0035ff2.chunk.js",
+  "static/js/1.e0035ff2.chunk.js.map": "/Marvel_API/static/js/1.e0035ff2.chunk.js.map",
+  "runtime~main.js": "/Marvel_API/static/js/runtime~main.aa692775.js",
+  "runtime~main.js.map": "/Marvel_API/static/js/runtime~main.aa692775.js.map",
+  "static/css/main.11d14f22.chunk.css.map": "/Marvel_API/static/css/main.11d14f22.chunk.css.map",
+  "index.html": "/Marvel_API/index.html",
+  "precache-manifest.d1ce0212feeed4df1af94d4091d57348.js": "/Marvel_API/precache-manifest.d1ce0212feeed4df1af94d4091d57348.js",
+  "service-worker.js": "/Marvel_API/service-worker.js"
 }
